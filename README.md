@@ -4,7 +4,7 @@
 #### 📈 Trends
 | Period        | Duration  | Period       | Duration  |
 | :---          | :---      | :---         | :---      |
-| Yesterday     | **45m**   | Last 7 Days  | **45m**   |
+| Yesterday     | **0m**    | Last 7 Days  | **45m**   |
 | Last 30 Days  | **45m**   | All Time     | **45m**   |
 
 #### 💻 Languages
