@@ -1,4 +1,10 @@
 <!--takatime-start-->
+
+> [!NOTE]
+> **TakaTime Dashboard**
+> _Jan 10_ to _Jan 17_
+
+> [!TIP]
 > **Total Coding Time (7d):** 0h 45m
 
 #### 📈 Trends
@@ -21,4 +27,6 @@
 | **daxis** | 44m | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 96.2% |
 | **daxisunder** | 1m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.2% |
 | **unknown** | 0m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.5% |
+
+
 <!--takatime-end-->
