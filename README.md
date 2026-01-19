@@ -2,7 +2,7 @@
 
 > [!NOTE]
 > **TakaTime Dashboard**
-> _Jan 11_ to _Jan 18_
+> _Jan 12_ to _Jan 19_
 
 > [!TIP]
 > **Total Coding Time (7d):** 0h 45m
