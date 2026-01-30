@@ -5,31 +5,31 @@
 > _Jan 23_ to _Jan 30_
 
 > [!TIP]
-> **Total Coding Time (7d):** 18h 30m
+> **Total Coding Time (7d):** 21h 35m
 
 #### 📈 Trends
 | Period        | Duration     | Period       | Duration     |
 | :---          | :---         | :---         | :---         |
-| Yesterday     | **18h 30m**  | Last 7 Days  | **18h 30m**  |
-| Last 30 Days  | **18h 30m**  | All Time     | **18h 30m**  |
+| Yesterday     | **19h 44m**  | Last 7 Days  | **21h 35m**  |
+| Last 30 Days  | **21h 35m**  | All Time     | **21h 35m**  |
 
 #### 💻 Languages
 | Language | Time | Percentage |
 | :--- | :--- | :--- |
-| **cpp** | 10h 46m | 🟦🟦🟦🟦🟦⬜⬜⬜⬜⬜ 58.2% |
-| **rs** | 4h 38m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 25.0% |
-| **org** | 2h 3m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 11.1% |
-| **text** | 23m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.2% |
-| **Other** | 38m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.5% |
+| **cpp** | 13h 46m | 🟦🟦🟦🟦🟦🟦⬜⬜⬜⬜ 63.8% |
+| **rs** | 4h 38m | 🟦🟦⬜⬜⬜⬜⬜⬜⬜⬜ 21.5% |
+| **org** | 2h 5m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 9.7% |
+| **text** | 26m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.1% |
+| **Other** | 38m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.0% |
 
 #### 🔥 Projects
 | Project | Time | Percentage |
 | :--- | :--- | :--- |
-| **src** | 15h 17m | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 82.6% |
-| **orgfiles** | 1h 54m | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ 10.3% |
-| **src.bak** | 31m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.8% |
-| **eww** | 17m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.5% |
-| **Other** | 30m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.7% |
+| **src** | 18h 17m | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 84.7% |
+| **orgfiles** | 1h 54m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 8.9% |
+| **src.bak** | 31m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.4% |
+| **eww** | 17m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 1.3% |
+| **Other** | 35m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.7% |
 
 
 <!--takatime-end-->
