@@ -5,13 +5,13 @@
 > _Jan 23_ to _Jan 30_
 
 > [!TIP]
-> **Total Coding Time (7d):** 23h 33m
+> **Total Coding Time (7d):** 23h 34m
 
 #### 📈 Trends
 | Period        | Duration     | Period       | Duration     |
 | :---          | :---         | :---         | :---         |
-| Yesterday     | **17h 26m**  | Last 7 Days  | **23h 33m**  |
-| Last 30 Days  | **23h 33m**  | All Time     | **23h 33m**  |
+| Yesterday     | **17h 27m**  | Last 7 Days  | **23h 34m**  |
+| Last 30 Days  | **23h 34m**  | All Time     | **23h 34m**  |
 
 #### 💻 Languages
 | Language | Time | Percentage |
@@ -20,7 +20,7 @@
 | **rs** | 4h 38m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 19.7% |
 | **org** | 3h 57m | 🟦⬜⬜⬜⬜⬜⬜⬜⬜⬜ 16.8% |
 | **text** | 28m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.0% |
-| **Other** | 42m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.0% |
+| **Other** | 43m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.1% |
 
 #### 🔥 Projects
 | Project | Time | Percentage |
@@ -29,7 +29,7 @@
 | **daxis** | 1h 59m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 8.4% |
 | **orgfiles** | 1h 54m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 8.1% |
 | **src.bak** | 31m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 2.2% |
-| **Other** | 51m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.6% |
+| **Other** | 52m | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 3.7% |
 
 
 <!--takatime-end-->
