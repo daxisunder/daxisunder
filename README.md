@@ -11,7 +11,7 @@
 | Period        | Duration     | Period       | Duration    |
 | :---          | :---         | :---         | :---        |
 | Yesterday     | **36h 33m**  | Last 7 Days  | **58h 4m**  |
-| Last 30 Days  | **58h 4m**   | All Time     | **58h 4m**  |
+| Last 30 Days  | **58h 5m**   | All Time     | **58h 5m**  |
 
 #### 💻 Languages
 | Language | Time | Percentage |
